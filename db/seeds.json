@@ -1,0 +1,88 @@
+[
+  {
+    "name": "Charlie",
+    "photo": "https://i.pinimg.com/736x/71/06/be/7106be6367860cf76dd5d01f89024f42--golden-retriever-puppies-golden-retrievers.jpg",
+    "breed": "Golden Retriever",
+    "weight": 75,
+    "spayneuter": false,
+    "sex": "M",
+    "age": 10,
+    "description": "Charlie is a 10 year old Golden Retreiver male. He is energetic, has a big heart, and loves being around people.",
+    "inquiries": [
+      {
+        "name": "Dan",
+        "email": "dan@gmail.com",
+        "phone": "202-510-5555",
+        "location": "Washington, DC",
+        "comment": "Charlie is one good looking dog. I'd like to adopt him!"
+      },
+      {
+        "name": "Sean",
+        "email": "Sean@gmail.com",
+        "phone": "301-986-1234",
+        "location": "Bethesda, MD",
+        "comment": "What a good looking dog!"
+      }
+    ]
+  },
+  {
+    "name": "Kelly",
+    "photo": "http://sys.dogsuniverse.info/breeds/wp-content/blogs.dir/2/files/2012/01/Labrador-retriever.jpg",
+    "breed": "Labrador Retriever",
+    "weight": 65,
+    "spayneuter": true,
+    "sex": "F",
+    "age": 7,
+    "description": "Kelly is a 7 year old Labrador Retreiver female. She loves to swim and to play outdoors. She is great with kids."
+  },
+  {
+    "name": "Murphy",
+    "photo": "https://cdn.shopify.com/s/files/1/0267/4045/products/nitro_blue.jpg",
+    "breed": "Pit Bull",
+    "weight": 80,
+    "spayneuter": true,
+    "sex": "M",
+    "age": 5,
+    "description": "Murphy is a 5 year old Pit Bull male. Despite his intimidating appearance, he is very kind and loves kids."
+  },
+  {
+    "name": "Shannon",
+    "photo": "Labrador Retriever",
+    "breed": "https://i.pinimg.com/originals/74/29/92/742992260d255f05cd28eed758b8e53d.jpg",
+    "weight": 70,
+    "spayneuter": true,
+    "sex": "F",
+    "age": 8,
+    "description": "Shannon is an 8 year old Labrador Retreiver female. She is full of energy and enjoys playing with other dogs."
+  },
+  {
+    "name": "Riley",
+    "photo": "http://www.petlandpensacola.com/wp-content/uploads/2016/09/golden-retriever.jpg",
+    "breed": "Golden Retriever",
+    "weight": 85,
+    "spayneuter": true,
+    "sex": "M",
+    "age": 6,
+    "description": "Riley is a 6 year old Golden Retreiver male. He is very fond of swimming in the ocean, and he loves treats."
+  },
+  {
+    "name": "Kayla",
+    "photo": "https://i.pinimg.com/originals/57/18/5f/57185f42216b6d83e4e375e6702eb21e.jpg",
+    "breed": "Doberman Pinscher",
+    "weight": 75,
+    "spayneuter": true,
+    "sex": "F",
+    "age": 9,
+    "description": "Kayla is a 9 year old Doberman Pinscher female. She has a lot of energy for her age, and is great with children."
+  },
+  {
+    "name": "Gabe",
+    "photo": "http://www.amodelrecommends.com/wp-content/uploads/2015/05/IMG_6070.jpg",
+    "breed": "Cockapoo",
+    "weight": 35,
+    "spayneuter": false,
+    "sex": "M",
+    "age": 3,
+    "description": "Gabe is a 3 year old Cockapoo male. He is very affectionate, and enjoys going for long walks."
+  }
+]
