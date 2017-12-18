@@ -47,8 +47,8 @@
   },
   {
     "name": "Shannon",
-    "photo": "Labrador Retriever",
-    "breed": "https://i.pinimg.com/originals/74/29/92/742992260d255f05cd28eed758b8e53d.jpg",
+    "photo": "https://i.pinimg.com/originals/74/29/92/742992260d255f05cd28eed758b8e53d.jpg",
+    "breed": "Labrador Retriever",
     "weight": 70,
     "spayneuter": true,
     "sex": "F",
