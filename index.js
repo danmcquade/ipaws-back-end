@@ -66,8 +66,8 @@ app.get('/api/dogs/delete/:id', (req, res) => {
 // Route to post a new inquiry
 app.post('/api/dogs/:id/newinquiry', (req, res) => {
   Dog.findOneAndUpdate({_id: req.params.id}, {$push: {inquiries: req.body}}, {new: true})
-  .then(() => {
-    res.redirect('/')
+  .then((inquiry) => {
+    res.json(inquiry)
   })
 })
 
