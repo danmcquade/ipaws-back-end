@@ -27,8 +27,8 @@ app.get('/api/dogs', (req, res) => {
 // Route to return an individual dog by ID
 app.get('/api/dogs/:id', (req, res) => {
   Dog.findById(req.params.id)
-    .then((image) => {
-      res.json(image)
+    .then((dog) => {
+      res.json(dog)
     })
     .catch((err) => {
       console.log(err)
@@ -36,7 +36,7 @@ app.get('/api/dogs/:id', (req, res) => {
 })
 
 // Route to create a new dog
-app.post('/api/images', (req, res) => {
+app.post('/api/dogs/new', (req, res) => {
   Dog.create(req.body)
     .then((dog) => {
       res.json(dog)
@@ -64,8 +64,8 @@ app.get('/api/dogs/delete/:id', (req, res) => {
 })
 
 // Route to post a new inquiry
-app.post('/api/dogs/:id/newinquiry', (req, res) => {
-  Dog.findOneAndUpdate({_id: req.params.id}, {$push: {inquiries: req.body}}, {new: true})
+app.post('/api/dogs/newinquiry/:id', (req, res) => {
+  Dog.findOneAndUpdate({_id: req.params.id}, {$push: {inquiries: req.body.inquiry}}, {new: true})
   .then((inquiry) => {
     res.json(inquiry)
   })

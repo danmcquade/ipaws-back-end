@@ -21,6 +21,6 @@ const DogSchema = new mongoose.Schema({
 })
 
 mongoose.model('Dog', DogSchema)
-mongoose.model('Inquiries', DogSchema)
+mongoose.model('Inquiries', InquiriesSchema)
 
 module.exports = mongoose
