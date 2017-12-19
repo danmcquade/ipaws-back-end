@@ -65,9 +65,10 @@ app.get('/api/dogs/delete/:id', (req, res) => {
 
 // Route to post a new inquiry
 app.post('/api/dogs/newinquiry/:id', (req, res) => {
-  Dog.findOneAndUpdate({_id: req.params.id}, {$push: {inquiries: req.body.inquiry}}, {new: true})
+  Dog.findOneAndUpdate({_id: req.params.id}, {$push: {inquiries: req.body}}, {new: true})
   .then((inquiry) => {
-    res.json(inquiry)
+    console.log('New inquiry recorded')
+    res.send(inquiry)
   })
 })
 
