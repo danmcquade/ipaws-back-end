@@ -84,5 +84,168 @@
     "sex": "M",
     "age": 3,
     "description": "Gabe is a 3 year old Cockapoo male. He is very affectionate, and enjoys going for long walks."
+
+  },
+  {
+    "name": "Cole",
+    "photo": "",
+    "breed": "Rat Terrier",
+    "weight": 18,
+    "spayneuter": true,
+    "sex": "M",
+    "age": 10,
+    "description": "Cole despite his age, is extremley energentic, loving, and protective. He also loves warm weather."
+
+  },
+  {
+    "name": "Sam",
+    "photo": "file:///Users/carmenpickens1/Downloads/ipaws-gr.jpg",
+    "breed": "Golden Retriever",
+    "weight": 32,
+    "spayneuter": false,
+    "sex": "F",
+    "age": 4,
+    "description": "Sam is a 4 year old Golden Retriever that was first discovered on the streets of Rome, Italy as a pup. She's shy at first but extremley friendly & loving with time."
+
+  },
+  {
+    "name": "Michael",
+    "photo": "file:///Users/carmenpickens1/Downloads/ipaws-3.jpg",
+    "breed": "Siberian Husky",
+    "weight": 74,
+    "spayneuter": true,
+    "sex": "M",
+    "age": 2,
+    "description": "Michael is a male, 2 year old Siberian Husky. He's best described as a gentle giant."
+
+  },
+  {
+    "name": "Leonardo",
+    "photo": "file:///Users/carmenpickens1/Downloads/ipaws-2.jpg",
+    "breed": "Pitbull",
+    "weight": 35,
+    "spayneuter": false,
+    "sex": "M",
+    "age": 6,
+    "description": "Leonardo is one of our more playful dogs. He absolutley loves being outdoors year-round & is also great with children."
+
+  },
+  {
+    "name": "Jade",
+    "photo": "file:///Users/carmenpickens1/Downloads/ipaws-6.jpg",
+    "breed": "Husky/Hybrid",
+    "weight": 44,
+    "spayneuter": true,
+    "sex": "F",
+    "age": 11,
+    "description": "Jade is the perfect dog for an older family/individual. She's very loving, laid-back, and loves to sleep."
+
+  },
+  {
+    "name": "Miley",
+    "photo": "file:///Users/carmenpickens1/Downloads/ipaws-7.jpg",
+    "breed": "Rottweiler/Hybrid",
+    "weight": 4,
+    "spayneuter": false,
+    "sex": "F",
+    "age": 0,
+    "description": "Miley is one of our youngest dogs. She is extremley playful, loving, & full over energy 24/7."
+
+  },
+  {
+    "name": "Rolly",
+    "photo": "file:///Users/carmenpickens1/Downloads/ipaws-11.jpg",
+    "breed": "Rottweiler",
+    "weight": 50,
+    "spayneuter": true,
+    "sex": "M",
+    "age": 5,
+    "description": "Rolly may seem a bit intimidating at first glace, but he's honestly one of the sweetest & most affectionate dogs around. Rolly is a real sweetheart."
+
+  },
+  {
+    "name": "Jack",
+    "photo": "file:///Users/carmenpickens1/Downloads/Jack.jpg",
+    "breed": "Schnauzer",
+    "weight": 13,
+    "spayneuter": true,
+    "sex": "M",
+    "age": 8,
+    "description": "Jack loves the kids! He loves to snuggle up, enjoys the outdoors, and loves to run, run, run."
+
+  },
+  {
+    "name": "Leah",
+    "photo": "file:///Users/carmenpickens1/Downloads/Dalmation.jpg",
+    "breed": "Dalmatian",
+    "weight": 33,
+    "spayneuter": true,
+    "sex": "M",
+    "age": 2,
+    "description": "For a  younger dog, Leah is surprisngly very low maintenance. She's very frindly, loving, and loves to get all the attention."
+
+  },
+  {
+    "name": "Mitch",
+    "photo": "file:///Users/carmenpickens1/Downloads/Dalmation.jpg",
+    "breed": "Border Collie",
+    "weight": 20,
+    "spayneuter": false,
+    "sex": "M",
+    "age": 5,
+    "description": "Mitch lives for the outdoors. If you love the outdoors as well, Mitch will be the perfect companion for you."
+
+  },
+  {
+    "name": "Marsha",
+    "photo": "file:///Users/carmenpickens1/Downloads/BL-ipaws.jpg",
+    "breed": "Black Labrador Retriever",
+    "weight": 71,
+    "spayneuter": false,
+    "sex": "F",
+    "age": 2,
+    "description": "Marsha is the perfect dog for comforting you on your bad days, and making your good days even better. Marsha has a special knack for connecting with her owner on an emotinal level"
+
+  },
+  {
+    "name": "Regina",
+    "photo": "file:///Users/carmenpickens1/Downloads/GH-ipaws.jpg",
+    "breed": "Greyhound",
+    "weight": 42,
+    "spayneuter": true,
+    "sex": "F",
+    "age": 3,
+    "description": "Regina has a great heart & spirit. She loves to be spoiled and loved."
+  },
+  {
+    "name": "Brian",
+    "photo": "file:///Users/carmenpickens1/Downloads/ipaws-cocker-spaniel.jpeg",
+    "breed": "Cocker Spaniel",
+    "weight": 17,
+    "spayneuter": true,
+    "sex": "M",
+    "age": 1,
+    "description": "Brian is very quiet initially, but once he warms up to you, there's no stopping his little motor from running. Brian is very loving and great with all ages."
+  },
+  {
+    "name": "Pat",
+    "photo": "file:///Users/carmenpickens1/Downloads/Doverman-ipaws.jpg",
+    "breed": "Doberman Pinscher",
+    "weight": 29,
+    "spayneuter": false,
+    "sex": "F",
+    "age": 6,
+    "description": "Pat easily has to be one of the most playful & affectionate dogs around. Even when you dont feel like playing Pat will find a way to make you play with her."
+  },
+  {
+    "name": "Leana",
+    "photo": "file:///Users/carmenpickens1/Downloads/pit-ipaws.jpg",
+    "breed": "Pitbull",
+    "weight": 71,
+    "spayneuter": true,
+    "sex": "F",
+    "age": 4,
+    "description": "Leana wouldn't harm a fly, literally. She wants nothing but to keep her owner happy. Leana is the perfect dog for anyone."
+
   }
 ]
