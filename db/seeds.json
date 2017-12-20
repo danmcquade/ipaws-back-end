@@ -87,19 +87,8 @@
 
   },
   {
-    "name": "Cole",
-    "photo": "",
-    "breed": "Rat Terrier",
-    "weight": 18,
-    "spayneuter": true,
-    "sex": "M",
-    "age": 10,
-    "description": "Cole despite his age, is extremley energentic, loving, and protective. He also loves warm weather."
-
-  },
-  {
     "name": "Sam",
-    "photo": "file:///Users/carmenpickens1/Downloads/ipaws-gr.jpg",
+    "photo": "https://i.pinimg.com/originals/da/83/be/da83be05116760453e116b3d440afc36.jpg",
     "breed": "Golden Retriever",
     "weight": 32,
     "spayneuter": false,
@@ -110,7 +99,7 @@
   },
   {
     "name": "Michael",
-    "photo": "file:///Users/carmenpickens1/Downloads/ipaws-3.jpg",
+    "photo": "http://robertoblock.me/wp-content/uploads/2017/11/list-of-dog-names-with-pictures-these-are-the-most-popular-dog-names-of-2016-american-kennel-club-picture.jpg",
     "breed": "Siberian Husky",
     "weight": 74,
     "spayneuter": true,
@@ -121,7 +110,7 @@
   },
   {
     "name": "Leonardo",
-    "photo": "file:///Users/carmenpickens1/Downloads/ipaws-2.jpg",
+    "photo": "https://www.thedogstop.net/sites/thedogstop/files/styles/scale_250/public/dog-of-the-month/harley_2_0.jpg?itok=ldFL2t59",
     "breed": "Pitbull",
     "weight": 35,
     "spayneuter": false,
@@ -132,7 +121,7 @@
   },
   {
     "name": "Jade",
-    "photo": "file:///Users/carmenpickens1/Downloads/ipaws-6.jpg",
+    "photo": "http://farm5.static.flickr.com/4054/4525212851_3b6912b15b.jpg",
     "breed": "Husky/Hybrid",
     "weight": 44,
     "spayneuter": true,
@@ -143,7 +132,7 @@
   },
   {
     "name": "Miley",
-    "photo": "file:///Users/carmenpickens1/Downloads/ipaws-7.jpg",
+    "photo": "https://i.imgur.com/1gK7oCM.jpg",
     "breed": "Rottweiler/Hybrid",
     "weight": 4,
     "spayneuter": false,
@@ -154,10 +143,10 @@
   },
   {
     "name": "Rolly",
-    "photo": "file:///Users/carmenpickens1/Downloads/ipaws-11.jpg",
+    "photo": "https://i.imgur.com/Mi7uK7l.jpg",
     "breed": "Rottweiler",
     "weight": 50,
-    "spayneuter": true,
+    "spayneuter": false,
     "sex": "M",
     "age": 5,
     "description": "Rolly may seem a bit intimidating at first glace, but he's honestly one of the sweetest & most affectionate dogs around. Rolly is a real sweetheart."
@@ -165,7 +154,7 @@
   },
   {
     "name": "Jack",
-    "photo": "file:///Users/carmenpickens1/Downloads/Jack.jpg",
+    "photo": "https://i.imgur.com/VgTRct6.jpg",
     "breed": "Schnauzer",
     "weight": 13,
     "spayneuter": true,
@@ -176,76 +165,24 @@
   },
   {
     "name": "Leah",
-    "photo": "file:///Users/carmenpickens1/Downloads/Dalmation.jpg",
+    "photo": "https://i.imgur.com/vIkzWAG.jpg",
     "breed": "Dalmatian",
     "weight": 33,
-    "spayneuter": true,
+    "spayneuter": false,
     "sex": "M",
     "age": 2,
     "description": "For a  younger dog, Leah is surprisngly very low maintenance. She's very frindly, loving, and loves to get all the attention."
 
   },
   {
-    "name": "Mitch",
-    "photo": "file:///Users/carmenpickens1/Downloads/Dalmation.jpg",
-    "breed": "Border Collie",
-    "weight": 20,
-    "spayneuter": false,
-    "sex": "M",
-    "age": 5,
-    "description": "Mitch lives for the outdoors. If you love the outdoors as well, Mitch will be the perfect companion for you."
-
-  },
-  {
-    "name": "Marsha",
-    "photo": "file:///Users/carmenpickens1/Downloads/BL-ipaws.jpg",
-    "breed": "Black Labrador Retriever",
-    "weight": 71,
-    "spayneuter": false,
-    "sex": "F",
-    "age": 2,
-    "description": "Marsha is the perfect dog for comforting you on your bad days, and making your good days even better. Marsha has a special knack for connecting with her owner on an emotinal level"
-
-  },
-  {
-    "name": "Regina",
-    "photo": "file:///Users/carmenpickens1/Downloads/GH-ipaws.jpg",
-    "breed": "Greyhound",
-    "weight": 42,
-    "spayneuter": true,
-    "sex": "F",
-    "age": 3,
-    "description": "Regina has a great heart & spirit. She loves to be spoiled and loved."
-  },
-  {
-    "name": "Brian",
-    "photo": "file:///Users/carmenpickens1/Downloads/ipaws-cocker-spaniel.jpeg",
-    "breed": "Cocker Spaniel",
+    "name": "Cole",
+    "photo": "https://i.imgur.com/op3To6N.jpg",
+    "breed": "Rat Terrier",
     "weight": 17,
     "spayneuter": true,
     "sex": "M",
-    "age": 1,
-    "description": "Brian is very quiet initially, but once he warms up to you, there's no stopping his little motor from running. Brian is very loving and great with all ages."
-  },
-  {
-    "name": "Pat",
-    "photo": "file:///Users/carmenpickens1/Downloads/Doverman-ipaws.jpg",
-    "breed": "Doberman Pinscher",
-    "weight": 29,
-    "spayneuter": false,
-    "sex": "F",
     "age": 6,
-    "description": "Pat easily has to be one of the most playful & affectionate dogs around. Even when you dont feel like playing Pat will find a way to make you play with her."
-  },
-  {
-    "name": "Leana",
-    "photo": "file:///Users/carmenpickens1/Downloads/pit-ipaws.jpg",
-    "breed": "Pitbull",
-    "weight": 71,
-    "spayneuter": true,
-    "sex": "F",
-    "age": 4,
-    "description": "Leana wouldn't harm a fly, literally. She wants nothing but to keep her owner happy. Leana is the perfect dog for anyone."
+    "description": "Cole has never lost a step since he was a pup. He is full of love and positive energy."
 
   }
 ]
