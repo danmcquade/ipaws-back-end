@@ -80,7 +80,7 @@
     "photo": "https://i.imgur.com/kwjYPw4.jpg",
     "breed": "Cockapoo",
     "weight": 35,
-    "spayneuter": false,
+    "spayneuter": true,
     "sex": "M",
     "age": 3,
     "description": "Gabe is a 3 year old Cockapoo male. He is very affectionate, and enjoys going for long walks."
