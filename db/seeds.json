@@ -194,5 +194,15 @@
     "sex": "F",
     "age": 7,
     "description": "Sophie is a fierce hunter that also enjoys an assortment of outdoors activities. When Sophie's not hunting, she loves spending time with kids and family."
+  },
+  {
+    "name": "Chuck",
+    "photo": "https://i.imgur.com/glSbAbV.jpg",
+    "breed": "Golden Retreiver",
+    "weight": 65,
+    "spayneuter": true,
+    "sex": "M",
+    "age": 8,
+    "description": "Chuck is an 8 year-old Golden Retreiver male. He absolutely loves the water, and will go for a swim whenever he gets the chance to. He is great with kids."
   }
 ]
