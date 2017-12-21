@@ -3,11 +3,11 @@
 iPaws (The International Pet Adoption Web Service) is a full-stack application that connect dogs waiting on adoption overseas with prospective home givers in the US.
 
 ## Front-end Repository
-- (https://github.com/danmcquade/ipaws-front-end)
+- https://github.com/danmcquade/ipaws-front-end
 
 ## Live Deployments:
-- Front-end: (http://ipaws.surge.sh/)
-- Back-end: (https://ipaws-back-end.herokuapp.com/api/dogs/)
+- Front-end: http://ipaws.surge.sh/
+- Back-end: https://ipaws-back-end.herokuapp.com/api/dogs/
 
 ![iPaws Preview Screenshot](https://github.com/danmcquade/ipaws-front-end/blob/master/preview.png)
 
@@ -26,7 +26,7 @@ iPaws allows users to browse a catalogue of dogs available for adoption which ar
 iPaws utilizes the full MERN (Mongoose, Express, React, Node) stack. The app has a React front-end and an Express/MongoDB back-end. Dependencies used include:
 - axios
 - react-router-dom
-- react-slick (Slider component from (https://github.com/akiran/react-slick))
+- react-slick (Slider component from https://github.com/akiran/react-slick)
 - body-parser
 - Heroku for back-end deployment
 - mLab for cloud-based MongoDB
