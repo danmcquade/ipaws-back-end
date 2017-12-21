@@ -138,7 +138,7 @@
     "spayneuter": false,
     "sex": "F",
     "age": 0,
-    "description": "Miley is one of our youngest dogs. She is extremley playful, loving, & full over energy 24/7."
+    "description": "Miley is one of our youngest dogs. She is extremley playful, loving, & full of energy 24/7."
 
   },
   {
@@ -184,5 +184,15 @@
     "age": 6,
     "description": "Cole has never lost a step since he was a pup. He is full of love and positive energy."
 
+  },
+  {
+    "name": "Sophie",
+    "photo": "https://i.imgur.com/ZU9QUWB.jpg?1",
+    "breed": "Balkan Hound",
+    "weight": 31,
+    "spayneuter": true,
+    "sex": "F",
+    "age": 7,
+    "description": "Sophie is a fierce hunter that also enjoys an assortment of outdoors activities. When Sophie's not hunting, she loves spending time with kids and family."
   }
 ]
