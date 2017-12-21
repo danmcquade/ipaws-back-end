@@ -59,7 +59,7 @@ app.post('/api/dogs/update/:id', (req, res) => {
 
 // Route to delete an indiviudal dog by ID
 app.get('/api/dogs/delete/:id', (req, res) => {
-  Dog.findOneAndRemove({ _id: req.params.id }).then(res.redirect('http://localhost:3000/dogs'))
+  Dog.findOneAndRemove({ _id: req.params.id }).then(res.redirect('http://ipaws.surge.sh/#/dogs/'))
   .then((deleted) => {
     console.log('Dog has been deleted')
   })
